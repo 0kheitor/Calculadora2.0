@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\bin\Debug\CalculadoraMelhoradaMelhora.exe.config
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\bin\Debug\CalculadoraMelhoradaMelhora.exe
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\bin\Debug\CalculadoraMelhoradaMelhora.pdb
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\obj\Debug\CalculadoraMelhoradaMelhora.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\obj\Debug\CalculadoraMelhoradaMelhora.Form1.resources
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\obj\Debug\CalculadoraMelhoradaMelhora.Properties.Resources.resources
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\obj\Debug\CalculadoraMelhoradaMelhora.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\obj\Debug\CalculadoraMelhoradaMelhora.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\obj\Debug\CalculadoraMelhoradaMelhora.exe
+C:\Users\User\source\repos\CalculadoraMelhoradaMelhora\CalculadoraMelhoradaMelhora\obj\Debug\CalculadoraMelhoradaMelhora.pdb
